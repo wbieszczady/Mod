@@ -1,0 +1,22 @@
+{
+  "item.retromod.example_item": "Example Item",
+  "block.retromod.example_block": "Example Block",
+  "itemGroup.retromod": "Retro Mod",
+
+  "item.retromod.sentient_sword": "Sentient Sword",
+  "item.retromod.phase_sword": "Phase Sword",
+  "item.retromod.lynch_sword": "Lynch Sword",
+
+  "effect.retromod.phase": "Phase Shift",
+  "effect.retromod.lynch": "Blood Thirst",
+  "effect.retromod.sentient": "Sentient's Rage",
+
+  "item.retromod.phase_ingot": "Phase Ingot",
+  "item.retromod.lynch_ingot": "Lynch Ingot",
+  "item.retromod.sentient_ingot": "Sentient Ingot",
+
+  "item.retromod.lynch_helmet": "Lynch Helmet",
+  "item.retromod.lynch_chestplate": "Lynch Chestplate",
+  "item.retromod.lynch_leggings": "Lynch Leggings",
+  "item.retromod.lynch_boots": "Lynch Boots"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "retromod:block/example_block"
+    }
+  }
+}
